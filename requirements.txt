@@ -1,0 +1,4 @@
+RPi.GPIO==0.7.1
+paho-mqtt==1.6.1
+flask==2.3.3
+pytest==7.4.0
